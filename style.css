@@ -1,0 +1,10 @@
+#canvas {
+  margin: auto;
+  background: #14b52a;
+  width: 100%;
+  height: 100%;
+}
+
+.btn-disabled {
+  color: #a36464 !important;
+}
